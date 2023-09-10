@@ -2,3 +2,4 @@
 #  gdzie 0 - brak ryzyka; 10 - ekstremalnie wysokie ryzyko
 def poziom_ryzyka(wiek, plec, wyksztalcenie):
     pass
+print ("cos")

@@ -12,3 +12,4 @@ ryzyko = poziom_ryzyka(wiek, plec, wyksztalcenie)
 
 #  funkcja na podstawie poziomu ryzyka i wysokosci kapitalu sugeruje w co inwestowac
 rodzaj_inwestycji(ryzyko, kwota_w_USD)
+print("Hej")
